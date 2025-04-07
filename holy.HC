@@ -1,4 +1,12 @@
-//Place this file in /Home and change
+//:D
+//:D
+//:D
+//:D
+//:D
+//:D
+//:D
+//:D
+//:D
 //anything you want.
 
 //This file is executed by the
